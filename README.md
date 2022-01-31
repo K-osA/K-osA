@@ -1,7 +1,12 @@
 ### Hi there 👋
 ![wakatime](https://wakatime.com/badge/user/b5391aba-bea4-4525-bdc1-20840785255f.svg)
 
+[![K-osA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=__KosA)](https://github.com/K-osA/github-readme-stats)
 [![K-osA's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-osA&count_private=true)](https://github.com/K-osA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-osA&layout=compact)](https://github.com/K-osA/github-readme-stats)
+
+
+
 <!--
 **K-osA/K-osA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
