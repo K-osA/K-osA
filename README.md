@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/b5391aba-bea4-4525-bdc1-20840785255f.svg)](https://wakatime.com/@b5391aba-bea4-4525-bdc1-20840785255f)
 
 ![K-osA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=__KosA)
-![K-osA's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-osA&count_private=true)
+![K-osA's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-osA&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-osA&layout=compact)
 
 
