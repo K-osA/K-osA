@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/b5391aba-bea4-4525-bdc1-20840785255f.svg)]
+![wakatime](https://wakatime.com/badge/user/b5391aba-bea4-4525-bdc1-20840785255f.svg)
 <!--
 **K-osA/K-osA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
