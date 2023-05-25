@@ -4,8 +4,6 @@
 
 ![K-osA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=__KosA)
 ![K-osA's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-osA&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-osA&layout=compact)
-
 
 
 <!--
